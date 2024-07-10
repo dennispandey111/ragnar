@@ -28,5 +28,9 @@ elif(x == "r" and y == "p") or (x == "p" and y == "s") or (x == "s" and y == "r"
     print("you loose")
 else:
     print("draw")
+    exit()
+
+print("thank you")
+
 
 
